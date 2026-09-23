@@ -25,5 +25,3 @@ Y = np.linalg.inv(A.dot(C) + I)
 Z = 10*I - 3*B
 # X = Y.Z
 print(Y.dot(Z))
-
-#DELETE THIS LATER
